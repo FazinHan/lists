@@ -66,3 +66,7 @@ app/src/main/java/com/fazinhan/lists/
 ## Dependencies
 
 Jetpack Compose (Material 3), AndroidX Lifecycle / Activity, WorkManager, and [`sh.calvin.reorderable`](https://github.com/Calvin-LL/Reorderable) for drag-to-reorder.
+
+## License
+
+[GNU Affero General Public License v3.0](LICENSE)
